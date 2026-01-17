@@ -1,17 +1,9 @@
-<div align="right">
-  <a href="https://www.linkedin.com/in/jharleymark/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://tigrabit.com">
-    <img src="https://img.shields.io/badge/Tigrabit-FF6B35?style=flat-square&logo=rocket&logoColor=white" alt="Tigrabit"/>
-  </a>
-  <a href="https://github.com/MarkKilong?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MarkKilong?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MarkKilong?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarkKilong?color=55960c&style=flat-square&labelColor=488207&logo=star"/>
-  </a>
-</div>
+<p align="right">
+<a href="https://www.linkedin.com/in/jharleymark/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://tigrabit.com"><img src="https://img.shields.io/badge/Tigrabit-FF6B35?style=flat-square&logo=rocket&logoColor=white" alt="Tigrabit"/></a>
+<a href="https://github.com/MarkKilong?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MarkKilong?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/MarkKilong?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MarkKilong?color=55960c&style=flat-square&labelColor=488207&logo=star"/></a>
+</p>
 
 <hr>
 
